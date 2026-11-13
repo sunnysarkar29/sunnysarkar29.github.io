@@ -1,0 +1,386 @@
+[
+  {
+    "file": "question-fin-p1-step.webp",
+    "source": "AE511_Final_Exam.pdf",
+    "page": 2,
+    "rect": [
+      75,
+      181,
+      514,
+      532
+    ],
+    "size": [
+      1362,
+      1089
+    ],
+    "label": "Final Exam, Problem 1 \u2014 complete step-response graph"
+  },
+  {
+    "file": "question-fin-p2-block.webp",
+    "source": "AE511_Final_Exam.pdf",
+    "page": 5,
+    "rect": [
+      173,
+      154,
+      445,
+      251
+    ],
+    "size": [
+      844,
+      302
+    ],
+    "label": "Final Exam, Problem 2 \u2014 complete unity-feedback loop"
+  },
+  {
+    "file": "question-fin-p2-plots.webp",
+    "source": "AE511_Final_Exam.pdf",
+    "page": 5,
+    "rect": [
+      79,
+      316,
+      518,
+      458
+    ],
+    "size": [
+      1362,
+      441
+    ],
+    "label": "Final Exam, Problem 2 \u2014 Bode and Nyquist plots"
+  },
+  {
+    "file": "question-fin-p4-plots.webp",
+    "source": "AE511_Final_Exam.pdf",
+    "page": 9,
+    "rect": [
+      83,
+      190,
+      527,
+      565
+    ],
+    "size": [
+      1377,
+      1163
+    ],
+    "label": "Final Exam, Problem 4 \u2014 magnitude and phase plots"
+  },
+  {
+    "file": "question-fin-extra-nichols.webp",
+    "source": "AE511_Final_Exam.pdf",
+    "page": 12,
+    "rect": [
+      68,
+      181,
+      524,
+      539
+    ],
+    "size": [
+      1415,
+      1110
+    ],
+    "label": "Final Exam, Extra Credit \u2014 Nichols chart"
+  },
+  {
+    "file": "question-hw01-ball.webp",
+    "source": "MAE511_HW1.pdf",
+    "page": 1,
+    "rect": [
+      131,
+      316,
+      491,
+      493
+    ],
+    "size": [
+      1117,
+      550
+    ],
+    "label": "Homework 1, Problem 2 \u2014 ball-and-beam schematic"
+  },
+  {
+    "file": "question-hw01-diag3.webp",
+    "source": "MAE511_HW1.pdf",
+    "page": 2,
+    "rect": [
+      88,
+      321,
+      549,
+      441
+    ],
+    "size": [
+      1430,
+      373
+    ],
+    "label": "Homework 1, Problem 3 \u2014 complete multiloop block diagram"
+  },
+  {
+    "file": "question-hw01-diag4.webp",
+    "source": "MAE511_HW1.pdf",
+    "page": 2,
+    "rect": [
+      130,
+      542,
+      542,
+      656
+    ],
+    "size": [
+      1278,
+      354
+    ],
+    "label": "Homework 1, Problem 4 \u2014 non-unity feedback block diagram"
+  },
+  {
+    "file": "question-hw01-diag5.webp",
+    "source": "MAE511_HW1.pdf",
+    "page": 3,
+    "rect": [
+      137,
+      208,
+      483,
+      357
+    ],
+    "size": [
+      1074,
+      463
+    ],
+    "label": "Homework 1, Problem 5 \u2014 disturbance feedback loop"
+  },
+  {
+    "file": "question-hw02-diag5.webp",
+    "source": "MAE511_HW2.pdf",
+    "page": 2,
+    "rect": [
+      120,
+      582,
+      519,
+      729
+    ],
+    "size": [
+      1237,
+      456
+    ],
+    "label": "Homework 2, Problem 5 \u2014 reference, noise and disturbance diagram"
+  },
+  {
+    "file": "question-hw04-diag5.webp",
+    "source": "AE511_HW4.pdf",
+    "page": 2,
+    "rect": [
+      133,
+      386,
+      524,
+      489
+    ],
+    "size": [
+      1213,
+      320
+    ],
+    "label": "Homework 4, Problem 5 \u2014 cruise-control PI feedback loop"
+  },
+  {
+    "file": "question-hw06-q1.webp",
+    "source": "AE511_HW6.pdf",
+    "page": 1,
+    "rect": [
+      65,
+      186,
+      549,
+      382
+    ],
+    "size": [
+      1501,
+      609
+    ],
+    "label": "Homework 6, Problem 1 \u2014 embedded textbook statement and diagram"
+  },
+  {
+    "file": "question-hw06-q2.webp",
+    "source": "AE511_HW6.pdf",
+    "page": 1,
+    "rect": [
+      120,
+      449,
+      502,
+      693
+    ],
+    "size": [
+      1185,
+      758
+    ],
+    "label": "Homework 6, Problem 2 \u2014 embedded textbook statement and tape-drive diagram"
+  },
+  {
+    "file": "question-hw06-margins.webp",
+    "source": "AE511_HW6.pdf",
+    "page": 2,
+    "rect": [
+      69,
+      238,
+      541,
+      451
+    ],
+    "size": [
+      1465,
+      662
+    ],
+    "label": "Homework 6, Problem 3 \u2014 Bode, Nyquist, and Nichols figures"
+  },
+  {
+    "file": "question-hw07-nichols.webp",
+    "source": "AE511_HW7.pdf",
+    "page": 2,
+    "rect": [
+      70,
+      178,
+      534,
+      546
+    ],
+    "size": [
+      1439,
+      1142
+    ],
+    "label": "Homework 7, Problem 2 \u2014 complete Nichols chart"
+  },
+  {
+    "file": "question-hw07-step.webp",
+    "source": "AE511_HW7.pdf",
+    "page": 3,
+    "rect": [
+      60,
+      190,
+      542,
+      581
+    ],
+    "size": [
+      1495,
+      1213
+    ],
+    "label": "Homework 7, Problem 3 \u2014 complete step-response plot"
+  },
+  {
+    "file": "question-hw07-nyq1.webp",
+    "source": "AE511_HW7.pdf",
+    "page": 4,
+    "rect": [
+      173,
+      246,
+      433,
+      442
+    ],
+    "size": [
+      807,
+      609
+    ],
+    "label": "Homework 7, Problem 4 part 2 \u2014 complete Nyquist plot"
+  },
+  {
+    "file": "question-hw07-nyq2.webp",
+    "source": "AE511_HW7.pdf",
+    "page": 4,
+    "rect": [
+      173,
+      496,
+      433,
+      693
+    ],
+    "size": [
+      807,
+      612
+    ],
+    "label": "Homework 7, Problem 4 part 3 \u2014 complete Nyquist plot"
+  },
+  {
+    "file": "question-mid-p1-bus.webp",
+    "source": "AE511_midterm.pdf",
+    "page": 1,
+    "rect": [
+      188,
+      242,
+      424,
+      342
+    ],
+    "size": [
+      733,
+      311
+    ],
+    "label": "Midterm, Problem 1 \u2014 bus dynamics diagram"
+  },
+  {
+    "file": "question-mid-p2-plots.webp",
+    "source": "AE511_midterm.pdf",
+    "page": 4,
+    "rect": [
+      78,
+      130,
+      530,
+      424
+    ],
+    "size": [
+      1402,
+      912
+    ],
+    "label": "Midterm, Problem 2 \u2014 all four step-response plots A\u2013D"
+  },
+  {
+    "file": "question-mid-p3-diagram.webp",
+    "source": "AE511_midterm.pdf",
+    "page": 5,
+    "rect": [
+      145,
+      164,
+      470,
+      282
+    ],
+    "size": [
+      1008,
+      367
+    ],
+    "label": "Midterm, Problem 3 \u2014 complete PI feedback diagram"
+  },
+  {
+    "file": "question-mid-p4-diagram.webp",
+    "source": "AE511_midterm.pdf",
+    "page": 7,
+    "rect": [
+      170,
+      141,
+      458,
+      250
+    ],
+    "size": [
+      893,
+      338
+    ],
+    "label": "Midterm, Problem 4 \u2014 complete PI disturbance/noise diagram"
+  },
+  {
+    "file": "question-mid-p4-plots.webp",
+    "source": "AE511_midterm.pdf",
+    "page": 8,
+    "rect": [
+      75,
+      130,
+      529,
+      439
+    ],
+    "size": [
+      1408,
+      958
+    ],
+    "label": "Midterm, Problem 4 \u2014 four labeled Bode plots A\u2013D"
+  },
+  {
+    "file": "question-mid-p5-diagram.webp",
+    "source": "AE511_midterm.pdf",
+    "page": 9,
+    "rect": [
+      135,
+      146,
+      466,
+      319
+    ],
+    "size": [
+      1027,
+      537
+    ],
+    "label": "Midterm, Problem 5 \u2014 complete feedforward/feedback diagram"
+  }
+]

@@ -1,0 +1,155 @@
+{
+  "version": "mastery",
+  "lectures": [
+    [
+      "lecture-01",
+      "Lecture 1",
+      "Feedback, nonlinear state-space, equilibrium, block diagrams"
+    ],
+    [
+      "lecture-02",
+      "Lecture 2",
+      "Laplace transforms, transfer functions, dominant modes"
+    ],
+    [
+      "lecture-03",
+      "Lecture 3",
+      "Second-order dynamics, transient metrics, overshoot"
+    ],
+    [
+      "lecture-04",
+      "Lecture 4",
+      "Bode, Nyquist, Nichols, minimum/nonminimum-phase"
+    ],
+    [
+      "lecture-05",
+      "Lecture 5",
+      "Time\u2013frequency relationships and delay"
+    ],
+    [
+      "lecture-06",
+      "Lecture 6",
+      "Sensitivity, complementary sensitivity, PI and PID"
+    ],
+    [
+      "lecture-07",
+      "Lecture 7",
+      "Nyquist stability, gain/phase margins"
+    ],
+    [
+      "lecture-08",
+      "Lecture 8",
+      "Loop shaping, lead/lag/notch compensators"
+    ],
+    [
+      "lecture-09",
+      "Lecture 9",
+      "Root-locus rules and controller design"
+    ],
+    [
+      "lecture-10",
+      "Lecture 10",
+      "Implementation, feedforward, noise, saturation"
+    ],
+    [
+      "gain-margins",
+      "Supplement",
+      "Positive and negative gain margins"
+    ],
+    [
+      "root-locus-examples",
+      "Supplement",
+      "Worked root-locus methods"
+    ]
+  ],
+  "assessments": [
+    [
+      "homework-01",
+      "Homework 1",
+      "Worked problems from assignment 1"
+    ],
+    [
+      "homework-02",
+      "Homework 2",
+      "Worked problems from assignment 2"
+    ],
+    [
+      "homework-03",
+      "Homework 3",
+      "Worked problems from assignment 3"
+    ],
+    [
+      "homework-04",
+      "Homework 4",
+      "Worked problems from assignment 4"
+    ],
+    [
+      "homework-05",
+      "Homework 5",
+      "Worked problems from assignment 5"
+    ],
+    [
+      "homework-06",
+      "Homework 6",
+      "Worked problems from assignment 6"
+    ],
+    [
+      "homework-07",
+      "Homework 7",
+      "Worked problems from assignment 7"
+    ],
+    [
+      "homework-08",
+      "Homework 8",
+      "Worked problems from assignment 8"
+    ],
+    [
+      "midterm",
+      "Midterm exam",
+      "Five step-by-step worked exam problems"
+    ],
+    [
+      "final",
+      "Final exam",
+      "Four worked exam problems + Nichols extra credit"
+    ]
+  ],
+  "problem_sections": {
+    "homework-01": 5,
+    "homework-02": 5,
+    "homework-03": 3,
+    "homework-04": 5,
+    "homework-05": 3,
+    "homework-06": 4,
+    "homework-07": 6,
+    "homework-08": 5,
+    "midterm": 5,
+    "final": 5
+  },
+  "source_models_missing": true,
+  "edition": "self-contained-original-questions",
+  "source_question_sections": {
+    "homework-01": 5,
+    "homework-02": 5,
+    "homework-03": 3,
+    "homework-04": 5,
+    "homework-05": 3,
+    "homework-06": 4,
+    "homework-07": 6,
+    "homework-08": 5,
+    "midterm": 5,
+    "final": 5
+  },
+  "original_figure_counts": {
+    "homework-01": 4,
+    "homework-02": 1,
+    "homework-03": 0,
+    "homework-04": 1,
+    "homework-05": 0,
+    "homework-06": 3,
+    "homework-07": 4,
+    "homework-08": 0,
+    "midterm": 5,
+    "final": 5
+  }
+}

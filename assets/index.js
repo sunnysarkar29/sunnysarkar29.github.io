@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const f=document.getElementById('site-filter');if(!f)return;const items=[...document.querySelectorAll('#lectures .catalog-item')];f.addEventListener('input',()=>{const q=f.value.toLowerCase().trim();for(const el of items)el.hidden=!el.textContent.toLowerCase().includes(q)});});
